@@ -8,7 +8,9 @@ Recuerden recontruir los módulos de Node
 npm install
 ```
 
-Y para contruir el build, recuerden:
+Y para contruir el build
 ```
 npm run build
 ```
+
+chupalo
